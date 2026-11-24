@@ -1,0 +1,11 @@
+[package]
+name = "asset-fonts"
+version = "0.1.0"
+edition = "2021"
+description = "Bundled font assets for UI themes"
+license-file = "../../../../credentials.toml"
+
+[lib]
+path = "lib.rs"
+
+[dependencies]
